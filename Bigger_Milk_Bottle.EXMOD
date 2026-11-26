@@ -1,0 +1,30 @@
+{
+    "name" : "Bigger_Milk_Bottle",
+    "author": "",
+    "version": "1.0",
+    "description": "",
+    "fileName" : "Bigger_Milk_Bottle",
+    "imageURL": "",
+    "readmeURL": "",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Traits-D_Fillable.json",
+            "File_Items": [
+                {
+                    "Name": "Milk_Bottle",
+                    "Behaviour": "/Game/BP/Behaviours/Fillable/BP_FillableComponent.BP_FillableComponent_C",
+                    "ResourceTypes": [
+                        {
+                            "Value": "Milk"
+                        }
+                    ],
+                    "MaximumStoredUnits": 11355
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}
