@@ -1,0 +1,16 @@
+﻿{
+  "mods": [
+    {
+      "name": "Bigger_Milk_Bottle",
+      "author": "Armaduke",
+      "version": "1.0",
+      "compatibility": "All",
+      "description": "",
+      "imageURL": "",
+      "readmeURL": "https://github.com/armaduke/Icarus_Mods/tree/main/Bigger_Milk_BottleBigger_Milk_Bottle.txt",
+      "files": {
+          "exmodz": "https://github.com/armaduke/Icarus_Mods/tree/main/Bigger_Milk_BottleBigger_Milk_Bottle.EXMODZ"
+      }
+    }
+   ]
+ }
